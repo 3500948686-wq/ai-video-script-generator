@@ -135,7 +135,7 @@ python video_script_generator.py
 
 ## 👤 作者
 
-- **GitHub**: [@你的用户名](https://github.com/你的用户名)
+- **GitHub**: [@ffffflash](https://github.com/ffffflash)
 - **项目背景**: 源于个人对“AI + 内容创作”效率工具的探索，验证大模型在结构化生成任务中的实用性。
 
 ---
