@@ -44,3 +44,38 @@
 ```bash
 git clone https://github.com/你的用户名/ai-video-script-generator.git
 cd ai-video-script-generator
+pip install requests
+# 复制配置文件模板
+cp config.example.py config.py
+
+# 用文本编辑器打开 config.py，填入你的 Kimi API Key
+# API Key 获取地址：https://platform.moonshot.cn/console/api-keys
+
+python video_script_generator.py
+.
+├── video_script_generator.py   # 主程序入口
+├── config.example.py           # 配置文件模板（公开）
+├── .gitignore                  # 忽略敏感文件与生成物
+├── README.md                   # 项目说明文档
+└── screenshot.png              # 运行效果截图
+
+# 视频脚本
+生成时间：2026-04-13 17:20:00
+
+## 🎯 视频标题：面试中如何展示项目经验 | 3步让面试官追着你问
+
+### 🔑 核心关键词
+`STAR法则` `数据量化` `埋钩子技巧` `Vibe Coding`
+
+### 📽️ 脚本正文
+
+【0-5秒 钩子】
+面试官让你“介绍项目”，80%的人一开口就输了...
+
+【6-30秒 干货】
+第一步：用 STAR 原则重构经历...
+第二步：把“效果很好”改成“效率提升 40%”...
+第三步：故意留技术名词引导追问...
+
+【31-45秒 结尾】
+这套方法论来自我实际项目的复盘...
