@@ -44,19 +44,3 @@
 ```bash
 git clone https://github.com/你的用户名/ai-video-script-generator.git
 cd ai-video-script-generator
-
----
-
-### 使用说明
-
-1. **全选复制**上面的内容。
-2. 在 VS Code 中打开 `README.md` 文件。
-3. **全部删除**原来的内容，粘贴进去。
-4. 把文中两处 **`你的用户名`** 改成你自己的 GitHub 用户名（比如 `tracycui`）。
-5. 保存文件。
-6. 按照之前的方法提交并推送到 GitHub：
-
-```bash
-git add README.md
-git commit -m "更新 README 文档"
-git push
