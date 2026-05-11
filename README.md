@@ -142,5 +142,3 @@ python video_script_generator.py
 
 *如果这个项目对你有帮助，请给一个 ⭐ Star 支持一下！*
 ```
-
-现在刷新 GitHub 页面，你会看到一个非常专业的项目首页，发给 HR 绝对加分。
